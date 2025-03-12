@@ -135,6 +135,14 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+sakla/
+data/
+analiz_sonuclari/
+*.jar
+*.log
+*.csv
+*.txt
+*.db
 
 # Spyder project settings
 .spyderproject

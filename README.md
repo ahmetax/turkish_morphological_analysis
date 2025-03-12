@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ### Zemberek 
 
-Zemberek desteği için, [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) projesinden JAR dosyasını indirin ve proje klasörüne kopyalayın.
+Zemberek desteği için, [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) projesinden son sürüm JAR dosyasını indirin ve proje klasörüne kopyalayın.
 
 ## Kullanım
 
